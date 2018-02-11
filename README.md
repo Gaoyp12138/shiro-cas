@@ -12,4 +12,4 @@ spring boot整合shiro+cas
   </tr>
 </table>
 
-&copy gaoyp
+&copy; gaoyp
