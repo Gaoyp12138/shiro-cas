@@ -1,5 +1,5 @@
 # shiro-cas
-spring boot+shiro+cas
+*spring boot+shiro+cas
 
 spring boot整合shiro+cas
 
@@ -11,3 +11,5 @@ spring boot整合shiro+cas
     <td>Foo</td>
   </tr>
 </table>
+
+&copy gaoyp
