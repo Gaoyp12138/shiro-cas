@@ -1,5 +1,5 @@
 # shiro-cas
-*spring boot+shiro+cas
+_spring boot+shiro+cas_
 
 spring boot整合shiro+cas
 
