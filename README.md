@@ -5,4 +5,4 @@ spring boot整合shiro+cas
 
 修改配置文件中数据库信息、cas单点登录、app地址信息即可运行
 
-[http://www.baidu.com]
+[baidu]: http://www.baidu.com
