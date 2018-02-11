@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+
+    <script>
+
+
+    </script>
+</head>
+<body>
+<!--enctype设置成一下三种，自己看看哪个可以-->
+<!--application/x-www-form-urlencoded： 在发送前编码所有字符（默认）。这是标准的编码格式。-->
+<!--multipart/form-data： 不对字符编码，在使用包含文件上传控件的表单时，必须使用该值。-->
+<!--text/plain： 窗体数据以纯文本形式进行编码，其中不含任何控件或格式字符。-->
+
+
+<form action="/login" method="post">
+    <input type="text" name="username" />
+    <input type="password" name="password" />
+    <input type="submit" value="登录" />
+</form>
+
+</body>
+</html>
